@@ -1,0 +1,4 @@
+tietokone:null
+apina:null
+alla oleva:null
+olut:null

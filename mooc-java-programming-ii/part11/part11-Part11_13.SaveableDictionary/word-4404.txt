@@ -1,0 +1,4 @@
+below:null
+computer:tietokone
+monkey:apina
+beer:olut
